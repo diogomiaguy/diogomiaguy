@@ -1,4 +1,4 @@
-### Hi there 👋
+### 👋 Olá, sou o Diogo!
 
 
 - 🔭 Atualmente estou trabalhando como desenvolvedor web em uma faculdade na area de EAD.
