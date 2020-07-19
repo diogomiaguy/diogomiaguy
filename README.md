@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+
+- 🔭 Atualmente estou trabalhando como desenvolvedor web em uma faculdade na area de EAD.
+
+- 🌱 Atualmente estou aprendendo Javascript, Nodejs, CSS e banco de dados.
+
+- 👯 Estou procurando colaborar com alguma coisa que faça a diferença para alguém.
 <!--
 **diogomiaguy/diogomiaguy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
