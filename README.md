@@ -3,7 +3,7 @@
 
 - 🔭 Atualmente estou trabalhando como desenvolvedor web em uma faculdade na area de EAD.
 
-- 📚 Atualmente estou aprendendo Javascript, Nodejs, CSS e banco de dados.
+- 📚 Atualmente estou aprendendo e relembrando Javascript, Nodejs, CSS3, HTML5 e banco de dados.
 
 - 👯 Estou procurando colaborar com alguma coisa que faça a diferença para alguém.
 <!--
