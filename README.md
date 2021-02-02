@@ -3,9 +3,9 @@
 
 - 🔭 Atualmente estou trabalhando como desenvolvedor web em uma faculdade na area de EAD.
 
-- 📚 Atualmente estou aprendendo e relembrando Javascript, Nodejs, CSS3, HTML5 e banco de dados.
+- 📚 Estou aprendendo e relembrando Javascript, Nodejs, CSS3, HTML5 e banco de dados.
 
-- 👯 Estou procurando colaborar com alguma coisa que faça a diferença para alguém.
+- 👯 Procuro colaborar com alguma coisa que faça a diferença para alguém. Vou começãr a fazer lives de programação na twitch.tv/diogo_miaguy
 <!--
 **diogomiaguy/diogomiaguy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
