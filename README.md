@@ -1,11 +1,11 @@
 ### 👋 Olá, sou o Diogo!
 
 
+- 📚 Estou aprendendo e relembrando Javascript, Nodejs, CSS3, HTML5 e banco de dados.- 
+
 - 🔭 Atualmente estou trabalhando como desenvolvedor web em uma faculdade na area de EAD.
 
-- 📚 Estou aprendendo e relembrando Javascript, Nodejs, CSS3, HTML5 e banco de dados.
-
-- 👯 Procuro colaborar com alguma coisa que faça a diferença para alguém. Vou começãr a fazer lives de programação na twitch.tv/diogo_miaguy
+- 👯 Procuro colaborar com alguma coisa que faça a diferença para alguém. Lives de programação e jogos na twitch.tv/diogomiaguy
 <!--
 **diogomiaguy/diogomiaguy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
