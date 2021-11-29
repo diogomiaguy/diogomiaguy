@@ -1,7 +1,7 @@
 ### 👋 Olá, sou o Diogo!
 
 
-- 📚 Estou aprendendo e relembrando Javascript, Nodejs, CSS3, HTML5 e banco de dados.- 
+- 📚 Estou aprendendo e relembrando Javascript, Nodejs, CSS3, HTML5 e banco de dados.
 
 - 🔭 Atualmente estou trabalhando como desenvolvedor web em uma faculdade na area de EAD.
 
