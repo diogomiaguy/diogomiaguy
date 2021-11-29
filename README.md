@@ -6,6 +6,8 @@
 - 🔭 Atualmente estou trabalhando como desenvolvedor web em uma faculdade na area de EAD.
 
 - 👯 Procuro colaborar com alguma coisa que faça a diferença para alguém. Lives de programação e jogos na twitch.tv/diogomiaguy
+
+![YOUR github stats](https://github-readme-stats.vercel.app/api?username=diogomiaguy)
 <!--
 **diogomiaguy/diogomiaguy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
