@@ -20,3 +20,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<div>
+  <a href="https://github.com/diogomiaguy">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=justblameliam&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <a href="https://github.com/diogomiaguy">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=williamjohndias&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+</div>
