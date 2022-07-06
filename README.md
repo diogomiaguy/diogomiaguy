@@ -1,4 +1,4 @@
-### 👋 Olá, sou o Diogo!
+### 👋 Olá, sou o Diogo "Miaguy" Würmli!
 
 
 - 📚 Estou aprendendo e relembrando Javascript, Nodejs, CSS3, HTML5 e banco de dados.
