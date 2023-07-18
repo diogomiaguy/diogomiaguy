@@ -28,8 +28,6 @@ Here are some ideas to get you started:
 <a href="https://www.youtube.com/channel/UCsaV_Q_KHvsU6hv0AmAOiMQ/playlists" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/></a>
 <br><br>
 
-![YOUR github stats](https://github-readme-stats.vercel.app/api?username=diogomiaguy&show_icons=true&theme=dracula&include_all_commits=true&count_private=true)
-
 <!--
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=diogomiaguy&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 -->
